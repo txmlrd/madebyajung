@@ -30,8 +30,8 @@ export function MainNavbar() {
         <NavbarLogo visible={visible} />
         <NavItems items={navItems} />
         <div className="flex items-center gap-4">
-          <NavbarButton variant="secondary">Login</NavbarButton>
-          <NavbarButton variant="primary">Book a call</NavbarButton>
+          {/* <NavbarButton variant="secondary">Login</NavbarButton> */}
+          <NavbarButton target="_blank" href="https://ig.me/m/madebyajung" variant="primary">Book a call</NavbarButton>
         </div>
       </NavBody>
 

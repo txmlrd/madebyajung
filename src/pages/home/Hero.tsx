@@ -8,81 +8,23 @@ export default function Hero() {
 
 export const products = [
   {
-    title: "Moonbeam",
-    link: "https://gomoonbeam.com",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/moonbeam.png",
+    title: "Ajoungnarl Mobile App (Coming Soon)",
+    link: "https://www.ajoungnarl.web.id/",
+    thumbnail: "https://tomvisual.vercel.app/images/project/ajoungnarl-mobile.png",
   },
   {
-    title: "Cursor",
-    link: "https://cursor.so",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/cursor.png",
+    title: "Ajoungnarl Website (2025)",
+    link: "https://www.ajoungnarl.web.id/",
+    thumbnail: "https://tomvisual.vercel.app/images/project/ajoungnarl.jpg",
   },
   {
-    title: "Rogue",
-    link: "https://userogue.com",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/rogue.png",
-  },
-
-  {
-    title: "Editorially",
-    link: "https://editorially.org",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/editorially.png",
+    title: "Vonks Design (2024)",
+    link: "https://www.vonksdesign.com/",
+    thumbnail: "https://tomvisual.vercel.app/images/project/vonksdesign.png",
   },
   {
-    title: "Editrix AI",
-    link: "https://editrix.ai",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/editrix.png",
-  },
-  {
-    title: "Pixel Perfect",
-    link: "https://app.pixelperfect.quest",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/pixelperfect.png",
-  },
-
-  {
-    title: "Algochurn",
-    link: "https://algochurn.com",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/algochurn.png",
-  },
-  {
-    title: "Aceternity UI",
-    link: "https://ui.aceternity.com",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/aceternityui.png",
-  },
-  {
-    title: "Tailwind Master Kit",
-    link: "https://tailwindmasterkit.com",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/tailwindmasterkit.png",
-  },
-  {
-    title: "SmartBridge",
-    link: "https://smartbridgetech.com",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/smartbridge.png",
-  },
-  {
-    title: "Renderwork Studio",
-    link: "https://renderwork.studio",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/renderwork.png",
-  },
-
-  {
-    title: "Creme Digital",
-    link: "https://cremedigital.com",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/cremedigital.png",
-  },
-  {
-    title: "Golden Bells Academy",
-    link: "https://goldenbellsacademy.com",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/goldenbellsacademy.png",
-  },
-  {
-    title: "Invoker Labs",
-    link: "https://invoker.lol",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/invoker.png",
-  },
-  {
-    title: "E Free Invoice",
-    link: "https://efreeinvoice.com",
-    thumbnail: "https://aceternity.com/images/products/thumbnails/new/efreeinvoice.png",
+    title: "Starter Academy (2023)",
+    link: "https://fe-starter-git-landing-new-txmlrds-projects.vercel.app/",
+    thumbnail: "https://tomvisual.vercel.app/images/project/starter.png",
   },
 ];

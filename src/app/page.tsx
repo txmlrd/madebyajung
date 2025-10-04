@@ -6,6 +6,7 @@ import Tagline from "@/pages/home/Tagline";
 import TimelineSection from "@/pages/home/TimelineSection";
 import ProductsTab from "@/pages/home/ProductsTab";
 import Footer from "@/pages/home/Footer";
+import HeroShowcase from "@/pages/home/HeroShowcase";
 
 export default function Home() {
   return (
@@ -14,8 +15,9 @@ export default function Home() {
         <MainNavbar />
       </nav>
       <main className="">
-        <Hero />
-        <ProductsTab />
+        {/* <Hero /> */}
+        <HeroShowcase />
+        {/* <ProductsTab /> */}
         <TimelineSection />
         {/* <MainComments /> */}
 
