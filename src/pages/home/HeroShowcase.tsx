@@ -1,6 +1,6 @@
 "use client";
 import { ThreeDMarquee } from "@/components/ui/3d-marquee";
-import { SparklesTitle } from "./SparkleTitle";
+import  SparklesTitle  from "./SparkleTitle";
 
 export default function HeroShowcase() {
   const images = [
