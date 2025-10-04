@@ -1,10 +1,10 @@
-import { Hero } from "@/pages/home/Hero";
+import Hero from "@/pages/home/Hero";
 import Image from "next/image";
 import { MainNavbar } from "@/components/internal/Navbar";
-import { MainComments } from "@/pages/home/Comments";
-import { Tagline } from "@/pages/home/Tagline";
-import { TimelineSection } from "@/pages/home/TimelineSection";
-import { ProductsTab } from "@/pages/home/ProductsTab";
+import MainComments from "@/pages/home/Comments";
+import Tagline from "@/pages/home/Tagline";
+import TimelineSection from "@/pages/home/TimelineSection";
+import ProductsTab from "@/pages/home/ProductsTab";
 import Footer from "@/pages/home/Footer";
 
 export default function Home() {

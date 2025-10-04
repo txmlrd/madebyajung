@@ -2,7 +2,7 @@
 
 import { Tabs } from "@/components/ui/tabs";
 
-export function ProductsTab() {
+export default function ProductsTab() {
   const tabs = [
     {
       title: "Product",

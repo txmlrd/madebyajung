@@ -2,7 +2,7 @@
 import React from "react";
 import { HeroParallax } from "@/components/ui/hero-parallax";
 
-export function Hero() {
+export default function Hero() {
   return <HeroParallax products={products} />;
 }
 

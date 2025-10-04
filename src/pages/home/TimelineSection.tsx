@@ -1,7 +1,7 @@
 import React from "react";
 import { Timeline } from "@/components/ui/timeline";
 
-export function TimelineSection() {
+export default function TimelineSection() {
   const data = [
     {
       title: "2024",

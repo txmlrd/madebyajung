@@ -3,7 +3,7 @@ import React from "react";
 import { motion } from "motion/react";
 import { LampContainer } from "@/components/ui/lamp";
 
-export function Tagline() {
+export default function Tagline() {
   return (
     <LampContainer>
       <motion.h1
